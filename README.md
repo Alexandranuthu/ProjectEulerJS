@@ -33,6 +33,6 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 ## Acknowledgments
 
-<a href="https://projecteuler.net/">Project Euler</a> for the challenges.
-<a href="https://developer.mozilla.org/en-US/">MDN Web Docs</a> for JavaScript documentation.
+- <a href="https://projecteuler.net/">Project Euler</a> for the challenges.
+- <a href="https://developer.mozilla.org/en-US/">MDN Web Docs</a> for JavaScript documentation.
 
